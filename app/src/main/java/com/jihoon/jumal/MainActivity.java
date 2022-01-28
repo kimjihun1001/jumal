@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         // This is test.
         // This is development.
-        // 가나다라바사ㅏ
-
+        // 가나다라바사
+        //된거니?
     }
 }
